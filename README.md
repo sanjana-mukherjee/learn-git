@@ -30,6 +30,6 @@
   git push -u origin master
   ```
 
-  _u flag stand for upstream. And if we use this flag from next push onwards we can simply run `git push`_
+  _u flag stands for upstream. And if we use this flag from next push onwards we can simply run `git push`_
 
 - Finally you can go to github and on your repo you would see a message prompting that "_This branch is 1 commit ahead of sanjana-mukherjee:main_" and a button for making the pull request, click the button and continue with the pull request.
