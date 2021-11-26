@@ -2,7 +2,7 @@
 
 ## Contributing to an open source project
 
-> METHOD 1 (DON'T)
+> METHOD 2
 
 - First fork the repository you in which you wish to contribute
 
